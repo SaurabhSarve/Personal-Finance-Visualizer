@@ -19,7 +19,7 @@ A simple personal finance tracking app built with Next.js, MongoDB, shadcn/ui, a
 
 
 ## 🔗 Live Demo
-https://finance-visualizer.vercel.app/
+https://personal-finance-visualizer-saurabhs-projects-a38cb4e5.vercel.app/
 
 ## 📄 License
 
